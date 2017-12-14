@@ -1,5 +1,5 @@
 # Get_IP
-WebRTC By the stun server Get you LAN+WAN IP
+WebRTC By stun server Get you network info
 ## Public Stun IP list
 
 | addr  | port|
@@ -15,4 +15,9 @@ WebRTC By the stun server Get you LAN+WAN IP
 | stun.ideasip.com   | 3478   |
 | stun.schlund.de   | 3478   |
 | stunserver.org   | 3478   |
+
+> **STUN - Simple Traversal of User Datagram Protocol (UDP) Through Network Address Translators (NATs)**  
+![](nat.svg)
+
+
 
