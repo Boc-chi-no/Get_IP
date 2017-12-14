@@ -7,7 +7,7 @@
 //	182.138.215.173			       //
 /////////////////////////////////////
 
-function run_webrtc_check(callback) {
+function networkCheck(callback) {
     var ip_arr = {};
     var RTCPeerConnection = window.RTCPeerConnection || window.mozRTCPeerConnection || window.webkitRTCPeerConnection;
     var useWebKit = !!window.webkitRTCPeerConnection;
