@@ -17,7 +17,11 @@ WebRTC By stun server Get you network info
 | stunserver.org   | 3478   |
 
 > **STUN - Simple Traversal of User Datagram Protocol (UDP) Through Network Address Translators (NATs)**  
-![](https://raw.githubusercontent.com/LJea/Get_IP/master/STUN.png)
+	[![stun-img]](https://en.wikipedia.org/wiki/STUN)
+  
+ 
+  --------------------------------
+  [stun-img]:https://raw.githubusercontent.com/LJea/Get_IP/master/STUN.png
 
 
 
