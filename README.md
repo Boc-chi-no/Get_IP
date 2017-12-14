@@ -1,4 +1,4 @@
-# Get_IP
+# JavaScular Get network info
 WebRTC By stun server Get you network info
 ## Public Stun IP list
 
