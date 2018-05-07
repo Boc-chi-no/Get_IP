@@ -24,7 +24,7 @@ function networkCheck(callback) {
     var servers = undefined;
     servers = {
         iceServers: [{
-            urls: "stun:stun.ekiga.net:3478" //stun server
+            urls: ["stun:stun.ekiga.net:3478", "stun:stunserver.org:3478","stun:stun.schlund.de:3478","stun:s1.voipstation.jp:3478","stun:stun.services.mozilla.com"] //stun server
         }]
     };
     var pc = new RTCPeerConnection(servers, mediaConstraints);
